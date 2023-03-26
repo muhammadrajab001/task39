@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\A\obj\Debug\net7.0\A.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\A\obj\Debug\net7.0\A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\A\obj\Debug\net7.0\A.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\A\obj\Debug\net7.0\A.AssemblyInfo.cs
+C:\Users\user\Desktop\A\obj\Debug\net7.0\A.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\A\bin\Debug\net7.0\A.exe
+C:\Users\user\Desktop\A\bin\Debug\net7.0\A.deps.json
+C:\Users\user\Desktop\A\bin\Debug\net7.0\A.runtimeconfig.json
+C:\Users\user\Desktop\A\bin\Debug\net7.0\A.dll
+C:\Users\user\Desktop\A\bin\Debug\net7.0\A.pdb
+C:\Users\user\Desktop\A\obj\Debug\net7.0\A.dll
+C:\Users\user\Desktop\A\obj\Debug\net7.0\refint\A.dll
+C:\Users\user\Desktop\A\obj\Debug\net7.0\A.pdb
+C:\Users\user\Desktop\A\obj\Debug\net7.0\A.genruntimeconfig.cache
+C:\Users\user\Desktop\A\obj\Debug\net7.0\ref\A.dll
+C:\Users\user\Desktop\програмирование c#\A\obj\Debug\net7.0\A.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\програмирование c#\A\obj\Debug\net7.0\A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\програмирование c#\A\obj\Debug\net7.0\A.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\програмирование c#\A\obj\Debug\net7.0\A.AssemblyInfo.cs
+C:\Users\user\Desktop\програмирование c#\A\obj\Debug\net7.0\A.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\програмирование c#\A\obj\Debug\net7.0\A.dll
+C:\Users\user\Desktop\програмирование c#\A\obj\Debug\net7.0\refint\A.dll
+C:\Users\user\Desktop\програмирование c#\A\obj\Debug\net7.0\A.pdb
